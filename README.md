@@ -1,3 +1,4 @@
+#   CREATE 'IN' FOLDER! And add dataset there
 #   Takes ',' delimited .csv from 'IN' folder. / Loops through every file in the folder
 #   Splits it randomly to 2 .csv files according to provided share percentage
 #   Saves in 2 separate files in the 'OUT' folder like splitFile_Body_* and splitFile_Share_* with * bring the number of input file
